@@ -1,0 +1,1 @@
+{"id1":"5c2c8746d8217e00019a1345","id2":"ai","similarities":{"MAX":0.3333333333333333,"AVG":0.2857142857142857},"matches":[{"file1":"5c2c8746d8217e00019a1345\\code.js","file2":"ai\\code.js","start1":6,"end1":8,"start2":6,"end2":9,"tokens":6}],"first_similarity":0.3333333333333333,"second_similarity":0.25}

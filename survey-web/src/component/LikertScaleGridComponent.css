@@ -1,0 +1,49 @@
+.likert-scale-grid {
+  width: 100%;
+  font-size: 0.9rem;
+  position: relative; /* Added for absolute positioning of vertical line */
+}
+
+.likert-scale-grid::before {
+  content: "";
+  position: absolute;
+  left: 30%;
+  top: 0;
+  bottom: 0;
+  border-left: 2px solid #000; /* Style for vertical line */
+}
+
+.likert-scale-grid .header {
+  display: grid;
+  grid-template-columns: 30% repeat(11, calc(70% / 11));
+  text-align: center;
+  position: relative; /* Needed for pseudo-element */
+}
+
+.likert-scale-grid .header::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  border-top: 2px solid #000; /* Style for horizontal line */
+  width: 100%; /* Ensure it spans the width of the component */
+}
+
+.likert-scale-grid .statement {
+  display: grid;
+  grid-template-columns: 30% repeat(11, calc(70% / 11));
+  align-items: center;
+  margin-bottom: 1em; /* Space between statements */
+}
+
+.likert-scale-grid .statement-text {
+  text-align: left;
+  padding-right: 10px; /* Ensures some space between text and the scale */
+}
+
+.likert-scale-grid .scale-option {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

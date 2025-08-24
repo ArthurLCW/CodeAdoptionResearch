@@ -1,0 +1,43 @@
+{
+  "easy_ransom_notes": [
+    "6159e83b6407a6d5345d3b99",
+    "6609688e8e4fe9698ab13a66",
+    "60ec51c51a3158a50ded8a3e",
+    "62e94c384f809b7d0831f4ea",
+    "65abd7494c8491a1bb90411a",
+    "65c64b9b090c48be1380151a",
+    "661747a10840d7553533cda1",
+    "60f9b7d785b3e37efe2c21d3",
+    "614b7c6143772286a208caea",
+    "65583ffa38bfc41805a553cd",
+    "5f8739ae0483431242e11d41",
+    "5faa3448cb538f3064fd2860",
+    "611e125063d1a52330225838"
+  ],
+  "easy_remove_duplicates": [
+    "66269e82eb93d0ae74c5d344",
+    "612610d67c8362f227b74c44",
+    "65a96f2c5e9b2019bd4dc2bc",
+    "661f84bf573acf3a4825c023"
+  ],
+  "hard_longest_valid_parenthesis": [
+    "5e92f375c570bc00080b2a79",
+    "60fd528cbd7f31e9b838efa5",
+    "60087e9189ddb34b79b08be5"
+  ],
+  "medium_find_winner": [
+    "6168bf1eabf324700728494b",
+    "6120eb44c9cb47c287219598",
+    "5a60a51863394a0001552447",
+    "5e1f86090cc973000b7b8ee9",
+    "61092f01d8c20f8e9e784549",
+    "5f172fe7c89bde065a7e120e",
+    "64d23e803ee1da9a01e52faa"
+  ],
+  "medium": [
+    "610ba8fced24e6ce1c89c68c",
+    "614d8fbb82f1d17aa02851fa",
+    "6168e39eeeb42428028ff420",
+    "65bc0b7d67c3b127986fe002"
+  ]
+}

@@ -1,0 +1,5 @@
+line-level-similarity-from-participant-perspective, line-level-similarity-from-AI-perspective, token-sequence-level-similarity-from-participant-perspective, token-sequence-level-similarity-from-AI-perspective
+0.166666667	0.066666667	0.666666667	0.5
+
+overall similarity (latent similarity after PCA)
+-1.125694343

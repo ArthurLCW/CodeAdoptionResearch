@@ -1,0 +1,1 @@
+{"id1":"6497e970e2621e753513a695","id2":"ai","similarities":{"MAX":0.75,"AVG":0.375},"matches":[{"file1":"6497e970e2621e753513a695\\code.js","file2":"ai\\code.js","start1":6,"end1":11,"start2":6,"end2":9,"tokens":6}],"first_similarity":0.75,"second_similarity":0.25}

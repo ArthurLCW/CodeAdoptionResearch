@@ -1,0 +1,1 @@
+{"id1":"6426ef0c682f3da7f5bb5471","id2":"ai","similarities":{"MAX":0.8,"AVG":0.7272727272727273},"matches":[{"file1":"6426ef0c682f3da7f5bb5471\\code.js","file2":"ai\\code.js","start1":13,"end1":23,"start2":16,"end2":27,"tokens":12}],"first_similarity":0.8,"second_similarity":0.6666666666666666}

@@ -1,0 +1,1 @@
+{"id1":"ai","id2":"5aeaba90ba2926000102f62c","similarities":{"MAX":0.5,"AVG":0.42857142857142855},"matches":[{"file1":"ai\\code.js","file2":"5aeaba90ba2926000102f62c\\code.js","start1":19,"end1":27,"start2":23,"end2":30,"tokens":9}],"first_similarity":0.5,"second_similarity":0.375}
