@@ -8,11 +8,12 @@ This project preprocesses and analyzes the data used in the research 'Do Comment
 ## Data Preprocessing Setup
 
 1. Run `cd .\dataPreprocessing` to ensure you are under the folder `dataPreprocessing`
-2. Download raw data from Firebase, and change the name to "rawdata.json".
-3. To get codes written by participants, run `node getParticipantsCodes.js`, and get the participants' submitted codes. Participants' submitted codes on page three will be placed in folder `\codingTask1` , while participants' submitted codes on page four will be placed in `\codingTask2`.
-4. You can review participants' submitted code and list the invalid responses in `invalidResponse.json`
-5. Run `.\codesProcess.bat` to calculate code similarity.
-6. Run `.\tableGeneration.bat` to get the processed raw data. The file `data-filtered.csv` is the CSV file that could be used for further analysis.
+2. Run `npm install` to install dependencies.
+3. Download raw data from Firebase, and change the name to "rawdata.json".
+4. To get codes written by participants, run `node getParticipantsCodes.js`, and get the participants' submitted codes. Participants' submitted codes on page three will be placed in folder `\codingTask1` , while participants' submitted codes on page four will be placed in `\codingTask2`.
+5. You can review participants' submitted code and list the invalid responses in `invalidResponse.json`
+6. Run `.\codesProcess.bat` to calculate code similarity.
+7. Run `.\tableGeneration.bat` to get the processed raw data. The file `data-filtered.csv` is the CSV file that could be used for further analysis.
 
 ## Data Analysis
 
